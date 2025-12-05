@@ -5,7 +5,7 @@ Machine Learning clustering implementations covering 9 different techniques.
 ## Notebooks
 
 ### a) K-Means Clustering (From Scratch)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RAUjnGaNfVyJ4ix3msPyC7YDnEITIf2A?usp=sharing)
 
 ### b) Hierarchical Clustering
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_HERE)
