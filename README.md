@@ -11,7 +11,7 @@ Machine Learning clustering implementations covering 9 different techniques.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Eai2p6HVTg27rhTxXUpbhsrVKu3EpXEe?usp=sharing)
 
 ### c) Gaussian Mixture Models
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fRJ3-QRKxaMUt-1KZIvBvf3c2AZ_qshm?usp=sharing)
 
 ### d) DBSCAN with PyCaret
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_HERE)
